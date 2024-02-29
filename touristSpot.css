@@ -8,6 +8,14 @@
       display: block;
       margin: 10px 0;
     }
+    .divider {
+      flex-direction: column;
+  }
+
+  .divider img {
+      margin-right: 0;
+      margin-bottom: 10px;
+  }
   }
   
   
